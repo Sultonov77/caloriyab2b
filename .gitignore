@@ -1,0 +1,30 @@
+# API kalitlar va maxfiy fayllar
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Log fayllar
+*.log
+bot.log
+
+# OS fayllar
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
